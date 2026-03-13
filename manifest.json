@@ -1,0 +1,19 @@
+{
+  "name": "VU Meter Pro",
+  "short_name": "VUMeter",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "any",
+  "categories": ["music", "utilities"],
+  "description": "Visualizer audio profesional",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/727/727218.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
